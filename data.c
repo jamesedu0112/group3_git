@@ -6,4 +6,5 @@ int main() {
 	temp = &value;
 	*temp = 20;
 	printf("value = %d, *temp = %d\n", value, *temp);
+	printf("Hello");
 }
