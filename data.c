@@ -7,4 +7,5 @@ int main() {
 	*temp = 20;
 	printf("value = %d, *temp = %d\n", value, *temp);
 	printf("Hello");
+	printf("Hello");
 }
